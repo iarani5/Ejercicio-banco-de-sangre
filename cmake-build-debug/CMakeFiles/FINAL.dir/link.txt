@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/FINAL.dir/main.cpp.o CMakeFiles/FINAL.dir/Persona.cpp.o CMakeFiles/FINAL.dir/Receptor.cpp.o CMakeFiles/FINAL.dir/Donante.cpp.o CMakeFiles/FINAL.dir/Validacion.cpp.o CMakeFiles/FINAL.dir/LinkedList.cpp.o  -o FINAL /usr/local/lib/libStanfordCPPLib.a 
